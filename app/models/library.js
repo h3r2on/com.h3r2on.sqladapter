@@ -8,8 +8,8 @@ exports.definition = {
 			db_file: '/library.sqlite',
 
 			idAttribute: 'id',
-
-			no_icloud: true
+			
+			remoteBackup: false
 		}
 	}
 }
